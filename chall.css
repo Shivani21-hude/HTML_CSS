@@ -1,0 +1,40 @@
+
+
+h1{
+    
+    color: red;
+   
+    
+}
+
+h2{
+   
+    color: black;
+   
+    
+}
+.top-container{
+    background-color: aqua;
+    height: 200px;
+    width: 200px;
+}
+.middle-container{
+    background-color: rgb(48, 142, 17);
+    height: 200px;
+    width: 400px;
+}
+.bottom-container{
+    background-color:rgb(109, 109, 133);
+    height: 200px;
+    width: 600px;
+   
+}
+body{
+    background-color: bisque;
+}
+h3{
+    text-align: center;
+    color: rgb(210, 30, 30);
+    font-size: x-large;
+   
+}
